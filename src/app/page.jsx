@@ -6,7 +6,7 @@ export default function HomePage() {
     <>
       <Header />
       <main>
-        <h1>Welcome to the Home Page</h1>
+        <h1>Welcome to the Home Page MANAT</h1>
       </main>
       <Footer />
     </>

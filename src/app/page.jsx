@@ -6,7 +6,11 @@ export default function HomePage() {
     <>
       <Header />
       <main>
-        <h1>Welcome to the Home Page MANAT</h1>
+        <div className="wrap-content border-2 border-red-500 w-full max-w-[1280px]">
+          <div className="inner-page">
+            <h1>Welcome to the Home Page MANAT</h1>
+          </div>
+        </div>
       </main>
       <Footer />
     </>
